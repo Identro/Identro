@@ -87,6 +87,10 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 <!-- CONTACT -->
 
 # Contatos
-
+#### Desenvolvedores 
  | [<img src="https://avatars.githubusercontent.com/u/19413241?v=4" width="115"><br><sub>@FranciscoWallison</sub>](https://github.com/FranciscoWallison) | [<img src="https://avatars.githubusercontent.com/u/75001586?v=4" width="115"><br><sub>@mrcs22</sub>](https://github.com/mrcs22) | [<img src="https://avatars.githubusercontent.com/u/62263143?v=4" width="115"><br><sub>@WelissonLuca</sub>](https://github.com/WelissonLuca)
-| - |  - |  - 
+| - |  - |  -
+
+#### UI/UX - Designers 
+ | [<img src="https://i.postimg.cc/Y2sG56M0/20210803-224656-1.jpg" width="115"><br><sub>@Carol</sub> ](https://www.linkedin.com/in/cardosocarol/) | [<img src="https://i.postimg.cc/hvfJJjbK/pp.png" width="115"><br><sub>@Felipe</sub>](https://www.linkedin.com/in/felipeihy/) | [<img src="https://i.postimg.cc/7YJGw5ZV/IMG-20200527-195419.jpg" width="115"><br><sub>@Giovana</sub>](https://www.linkedin.com/in/giovanna-gardinali) | [<img src="https://i.postimg.cc/7hd5Skm0/1613697951846.png" width="115"><br><sub>@Paulo</sub>](https://www.linkedin.com/in/paulo-dos-anjos/)
+| - |  - |  - |  - | 
