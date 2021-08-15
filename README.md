@@ -80,7 +80,7 @@ $ react-native run-android
 
 # Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença APACHE. Veja `LICENSE` para mais informações.
 
 <!-- CONTACT -->
 
