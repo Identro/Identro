@@ -1,5 +1,6 @@
 <h1 align="center">🔺 Identro - Hack iFood 2° Edição 🔺</h1>
 
+![Capa](https://i.imgur.com/2oJpKQ8.png)
 ## 📕 Índice
 
 - [📋 Sobre](#Sobre)
@@ -15,11 +16,8 @@
 
 # Sobre
 
-<p align="left"> 📡 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque orci sem, pulvinar vitae purus non, aliquet pharetra orci. In hac habitasse platea dictumst. Cras efficitur luctus enim, et hendrerit diam bibendum quis. Proin sagittis volutpat semper. Phasellus semper sapien non eros fringilla, ac aliquam turpis consectetur. </p>
-
-## Objetivo
-<p align="left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque orci sem, pulvinar vitae purus non, aliquet pharetra orci. In hac habitasse platea dictumst. Cras efficitur luctus enim, et hendrerit diam bibendum quis. Proin sagittis volutpat semper. Phasellus semper sapien non eros fringilla, ac aliquam turpis consectetur.  </p>
-
+<p align="left"> 📡O Hack iFood é um hackathon para estudantes universitários de todo o Brasil pensarem em soluções inovadoras para problemas reais da foodtech líder da América Latina.
+Com objetivo de entregar uma melhor experiência no protótipo do projeto, foi devolvido MVP para melhorar engajamento dentro do Feed do Ifood. </p>
 
 ![feed](https://i.imgur.com/9NirBZt.png)
 <!-- TECHNOLOGIES -->
